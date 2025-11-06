@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+rapport/*.pdf
+rapport/*.docx
+**/out/
