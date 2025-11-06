@@ -44,7 +44,6 @@
 ---
 
 ## 📝 Rapport
-- LaTeX : `rapport/rapport-fcm.tex`  
 - PDF (si présent) : `rapport/rapport-fcm.pdf`  
 - Les figures insérées dans le rapport sont celles de `out/` (voir noms ci-dessus).
 
