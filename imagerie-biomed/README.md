@@ -90,8 +90,8 @@ pip install -r env/requirements.txt
 ```
 
 **Librairies clés :**  
-`numpy`, `scikit-image`, `matplotlib`, `opencv-python`, `tifffile`, `scipy`  
-+ logiciels externes : **ICY**, **Fiji**, **LaTeX (tau-class)**
+`numpy`, `scikit-image`, `matplotlib`, `tifffile`, `scipy`  
++ logiciels externes : **ICY**, **Fiji**, **LaTeX**
 
 ---
 
@@ -99,7 +99,7 @@ pip install -r env/requirements.txt
 - Olivo-Marin, *Wavelet-based detection of spots and features in biological images*, IEEE, 2002.  
 - Genovesio et al., *Tracking of Cells in Videos: A Particle Filtering Approach*, IEEE TPAMI, 2005.  
 - Ronneberger et al., *U-Net: Convolutional Networks for Biomedical Image Segmentation*, MICCAI, 2015.  
-- Cours d’Imagerie Biomédicale — *Université Paris Cité* (Camille Kurtz).
+- Cours d’Imagerie Biomédicale — *Université Paris Cité* (Vannary MEAS-YEDID HARDY).
 
 ---
 
