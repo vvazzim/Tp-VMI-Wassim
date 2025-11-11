@@ -1,0 +1,1111 @@
+<root>
+<trackfile version="1"/>
+<trackgroup description="mhtTracks-Run1">
+<track id="-689963586">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="0" type="1" x="40" y="77.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="1" type="1" x="40" y="77" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="2" type="1" x="42.5" y="77" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="3" type="2" x="41.991375894031606" y="77.02779181785394" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="4" type="1" x="40.333333333333336" y="77.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="5" type="1" x="44.111111111111114" y="76.55555555555556" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711744" t="6" type="1" x="43.5" y="76.83333333333333" z="0"/>
+</track>
+<track id="832179236">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="0" type="1" x="44.4" y="74.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="1" type="1" x="45" y="74" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="2" type="1" x="44" y="75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="3" type="1" x="44.888888888888886" y="74.88888888888889" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="4" type="1" x="45.5" y="75.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16756225" t="5" type="1" x="48" y="74" z="0"/>
+</track>
+<track id="-462531524">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="0" type="1" x="128.6" y="92.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="1" type="1" x="127" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="2" type="1" x="129.28571428571428" y="96.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="3" type="1" x="127.2" y="96.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="4" type="1" x="123.66666666666667" y="95.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="5" type="1" x="124.5" y="91.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10486016" t="6" type="1" x="125.33333333333333" y="93.66666666666667" z="0"/>
+</track>
+<track id="-1464638761">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="0" type="1" x="131.25" y="86.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="1" type="1" x="132.66666666666666" y="88.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="2" type="1" x="133" y="91" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="3" type="1" x="133" y="91" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="4" type="1" x="131" y="93" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="5" type="2" x="131.4015255372503" y="92.56942112563827" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-37376" t="6" type="1" x="134.5" y="93.5" z="0"/>
+</track>
+<track id="1702983218">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="0" type="1" x="118.47058823529412" y="96.82352941176471" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="1" type="1" x="118.21428571428571" y="97.42857142857143" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="2" type="1" x="116" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="3" type="1" x="118.45454545454545" y="98.81818181818181" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="4" type="1" x="115.33333333333333" y="100.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="5" type="1" x="115" y="99.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1376001" t="6" type="1" x="118.27272727272727" y="99.0909090909091" z="0"/>
+</track>
+<track id="307623684">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="0" type="1" x="125.70588235294117" y="86.41176470588235" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="1" type="1" x="127.5625" y="86.3125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="2" type="1" x="129.2" y="86.26666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="3" type="1" x="129.33333333333334" y="85.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="4" type="1" x="129.63636363636363" y="88.45454545454545" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="5" type="1" x="131.66666666666666" y="88" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="6" type="1" x="134" y="90.5" z="0"/>
+</track>
+<track id="-137545424">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="0" type="1" x="136.3" y="94.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="1" type="1" x="135.66666666666666" y="94.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="2" type="1" x="140" y="96" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="3" type="1" x="136.16666666666666" y="96.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="4" type="1" x="133.25" y="98.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="5" type="2" x="133.9664071458961" y="98.23078081673937" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2556160" t="6" type="1" x="132" y="101" z="0"/>
+</track>
+<track id="-771975667">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="0" type="1" x="129.33333333333334" y="96.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="1" type="1" x="131.5" y="97" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="2" type="1" x="132.5" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="3" type="1" x="132" y="99.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="4" type="1" x="127.77777777777777" y="97.55555555555556" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="5" type="1" x="129.85294117647058" y="96.05882352941177" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="6" type="1" x="132.4" y="96.2" z="0"/>
+</track>
+<track id="-1920053761">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="0" type="1" x="135.6" y="103.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="1" type="1" x="134.75" y="102.91666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="2" type="1" x="135.125" y="103.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="3" type="1" x="135" y="105.21428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="4" type="1" x="134.66666666666666" y="105.53333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="5" type="1" x="134.64285714285714" y="105.85714285714286" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-64256" t="6" type="1" x="133.44444444444446" y="105.11111111111111" z="0"/>
+</track>
+<track id="-1185610603">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="0" type="1" x="156" y="93.77777777777777" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="1" type="1" x="157.85185185185185" y="97.71851851851852" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="2" type="1" x="153" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="3" type="1" x="157" y="94.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="4" type="1" x="154.33333333333334" y="96.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13958913" t="5" type="1" x="155.33333333333334" y="95.33333333333333" z="0"/>
+</track>
+<track id="1276182743">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="0" type="1" x="151.6" y="97.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="1" type="1" x="154.16666666666666" y="94.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="2" type="1" x="150.6" y="95.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="3" type="1" x="152.8" y="96" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="4" type="1" x="150.5" y="97.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="5" type="1" x="151.5" y="97" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-22784" t="6" type="1" x="153.83333333333334" y="98" z="0"/>
+</track>
+<track id="-1989383810">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="0" type="1" x="145.3684210526316" y="95" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="1" type="1" x="143.16666666666666" y="94.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="2" type="1" x="145.91666666666666" y="96.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="3" type="1" x="141.8" y="97.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="4" type="1" x="146.125" y="100.875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="5" type="1" x="147.5" y="101.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3800833" t="6" type="1" x="148.11111111111111" y="102.94444444444444" z="0"/>
+</track>
+<track id="-1854655995">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="0" type="1" x="141" y="56.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="1" type="1" x="136.6" y="51.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="2" type="1" x="138" y="53" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="3" type="1" x="134.5" y="51.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="4" type="1" x="137.33333333333334" y="53.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="5" type="1" x="134.6" y="54.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65345" t="6" type="1" x="134" y="56" z="0"/>
+</track>
+<track id="1231111948">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="0" type="1" x="124.33333333333333" y="56.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="1" type="1" x="127" y="55" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="2" type="1" x="126" y="60" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="3" type="2" x="126.09228237097162" y="59.05223133269806" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="4" type="1" x="131.66666666666666" y="61.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="5" type="1" x="131.5" y="66" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711761" t="6" type="1" x="125.2" y="65.6" z="0"/>
+</track>
+<track id="179560175">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="0" type="1" x="139.5" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="1" type="2" x="139.5" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="2" type="1" x="141" y="61" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="3" type="1" x="136" y="58" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="4" type="1" x="136.83333333333334" y="58.833333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="5" type="1" x="139.5" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711837" t="6" type="1" x="141" y="68" z="0"/>
+</track>
+<track id="390717415">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="0" type="1" x="143" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="1" type="1" x="145" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="2" type="1" x="143.5" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="3" type="1" x="143.5" y="61" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="4" type="1" x="144.5" y="59.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="5" type="2" x="144.30578815131386" y="59.88781395258028" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49408" t="6" type="1" x="143.5" y="61.5" z="0"/>
+</track>
+<track id="-133080685">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="0" type="1" x="172.08771929824562" y="68.6140350877193" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="1" type="1" x="172.6727272727273" y="69.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="2" type="1" x="172.19298245614036" y="69.63157894736842" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="3" type="1" x="169" y="70" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="4" type="2" x="169.66431034471847" y="69.90224021629821" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="5" type="1" x="172.16417910447763" y="70.34328358208955" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5308161" t="6" type="1" x="166" y="68" z="0"/>
+</track>
+<track id="-1632514290">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="0" type="1" x="155.66666666666666" y="80.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="1" type="1" x="154" y="83" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="2" type="1" x="153" y="79.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="3" type="1" x="152.25" y="81" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="4" type="1" x="151.1" y="77.9" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="5" type="1" x="151.3" y="75.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-1638656" t="6" type="1" x="151.6" y="76.7" z="0"/>
+</track>
+<track id="1125719282">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="0" type="1" x="154.5" y="76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="1" type="1" x="157.5" y="80" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="2" type="1" x="156.5" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="3" type="1" x="160" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="4" type="1" x="154.33333333333334" y="82.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="5" type="1" x="154.28571428571428" y="81.64285714285714" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25088" t="6" type="1" x="156" y="78" z="0"/>
+</track>
+<track id="519619835">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="0" type="1" x="149.66666666666666" y="75.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="1" type="1" x="154" y="75.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="2" type="1" x="151.8" y="75.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="3" type="1" x="152.11111111111111" y="72.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="4" type="1" x="153" y="72.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="5" type="2" x="152.81738447888472" y="72.65188078002953" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711840" t="6" type="1" x="152" y="70.5" z="0"/>
+</track>
+<track id="1640961804">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="0" type="1" x="159.75" y="74" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="1" type="1" x="161" y="75.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="2" type="1" x="159.66666666666666" y="78.08333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="3" type="1" x="161.33333333333334" y="78.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="4" type="1" x="160.33333333333334" y="78.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="5" type="1" x="161.84615384615384" y="78.38461538461539" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13107456" t="6" type="1" x="161.5" y="74.5" z="0"/>
+</track>
+<track id="2019400070">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="0" type="1" x="162.25" y="65" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="1" type="1" x="161.5" y="68.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="2" type="1" x="163.5" y="68.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="3" type="1" x="161" y="73.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="4" type="1" x="162" y="67" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="5" type="1" x="162" y="69" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15663360" t="6" type="1" x="161" y="70" z="0"/>
+</track>
+<track id="-375859884">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711903" t="0" type="1" x="151.5" y="40" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711903" t="1" type="1" x="152.07692307692307" y="39.46153846153846" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711903" t="2" type="1" x="152" y="38" z="0"/>
+</track>
+<track id="1541898577">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="0" type="1" x="160.33333333333334" y="44.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="1" type="1" x="157.125" y="43" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="2" type="1" x="158" y="44" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="3" type="2" x="157.95572968633314" y="43.852133993320514" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="4" type="1" x="157.71428571428572" y="45" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="5" type="1" x="158.33333333333334" y="45.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15872" t="6" type="1" x="156.1" y="45.9" z="0"/>
+</track>
+<track id="-1555935546">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6912" t="0" type="1" x="161.21052631578948" y="54.89473684210526" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6912" t="1" type="1" x="160" y="53.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6912" t="2" type="1" x="163.86516853932585" y="54.561797752808985" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6912" t="3" type="1" x="162.95283018867926" y="53.094339622641506" z="0"/>
+</track>
+<track id="1269761720">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="0" type="1" x="165.4" y="60.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="1" type="1" x="165.4" y="60.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="2" type="1" x="166.21428571428572" y="64.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="3" type="1" x="164.47058823529412" y="64.94117647058823" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="4" type="1" x="167.32748538011697" y="62.09356725146199" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="5" type="1" x="164.75862068965517" y="57.89655172413793" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2048" t="6" type="1" x="166.9245283018868" y="62.80503144654088" z="0"/>
+</track>
+<track id="-311058680">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="0" type="1" x="153.33333333333334" y="66.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="1" type="1" x="152.5" y="65.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="2" type="1" x="154" y="67" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="3" type="2" x="153.7295653087364" y="66.72956530873638" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="4" type="1" x="154" y="68" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="5" type="1" x="152" y="67.36363636363636" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16737025" t="6" type="1" x="152" y="67" z="0"/>
+</track>
+<track id="1223801247">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="0" type="1" x="139.66666666666666" y="75.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="1" type="1" x="142" y="70.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="2" type="1" x="137.8" y="70.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="3" type="1" x="136.9" y="68.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="4" type="2" x="137.23706047386463" y="69.01404631117333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="5" type="1" x="132" y="71" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11665664" t="6" type="1" x="131.5" y="67.5" z="0"/>
+</track>
+<track id="-2128480203">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="0" type="1" x="156.66666666666666" y="88.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="1" type="1" x="157.55555555555554" y="89.88888888888889" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="2" type="2" x="157.37341831164716" y="89.63845017851484" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="3" type="1" x="159" y="91" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="4" type="1" x="159.25" y="92.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="5" type="1" x="163" y="89" z="0"/>
+</track>
+<track id="156184214">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="0" type="1" x="166.7941176470588" y="87.8529411764706" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="1" type="2" x="166.7941176470588" y="87.8529411764706" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="2" type="1" x="165.5735294117647" y="89.8529411764706" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="3" type="1" x="166.71014492753622" y="89.72463768115942" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="4" type="1" x="166.6346153846154" y="91.28846153846153" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="5" type="1" x="166.8793103448276" y="90.36206896551724" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711722" t="6" type="1" x="166.52542372881356" y="90.67796610169492" z="0"/>
+</track>
+<track id="-1350374072">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="0" type="1" x="135.83333333333334" y="72.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="1" type="1" x="140.5" y="75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="2" type="2" x="139.54377946948094" y="74.419437535042" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="3" type="1" x="143" y="76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="4" type="1" x="140" y="77" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="5" type="1" x="141.33333333333334" y="78.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3211520" t="6" type="1" x="138.5" y="72.5" z="0"/>
+</track>
+<track id="1609641256">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="0" type="1" x="115.83333333333333" y="59" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="1" type="1" x="117.14285714285714" y="59.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="2" type="1" x="117.07142857142857" y="58.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="3" type="1" x="121.66666666666667" y="61.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="4" type="1" x="120.38461538461539" y="59.76923076923077" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="5" type="1" x="122.2" y="63.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="6" type="1" x="122" y="60" z="0"/>
+</track>
+<track id="-1815999160">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="0" type="1" x="115.5" y="55" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="1" type="2" x="115.5" y="55" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="2" type="1" x="113" y="56" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="3" type="1" x="114.375" y="56.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="4" type="1" x="111.2" y="60.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="5" type="1" x="114.8" y="60.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16515328" t="6" type="1" x="114.5" y="59" z="0"/>
+</track>
+<track id="-740186542">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="0" type="1" x="109.8" y="59.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="1" type="1" x="108.125" y="58.375" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="2" type="1" x="106.5" y="59.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="3" type="1" x="109.66666666666667" y="60.61904761904762" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="4" type="1" x="107" y="60.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="5" type="1" x="106.6" y="62.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711862" t="6" type="1" x="108.16666666666667" y="64.16666666666667" z="0"/>
+</track>
+<track id="845883285">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="0" type="1" x="101.42105263157895" y="62.94736842105263" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="1" type="1" x="101.3157894736842" y="63.10526315789474" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="2" type="1" x="101.1875" y="63.625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="3" type="1" x="102.66666666666667" y="64.11111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="4" type="1" x="103.6" y="63.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="5" type="1" x="99.5" y="65.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16748801" t="6" type="1" x="101" y="66" z="0"/>
+</track>
+<track id="1020888947">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="0" type="1" x="131.8" y="34.1" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="1" type="1" x="131" y="33.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="2" type="1" x="133.44444444444446" y="35.55555555555556" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="3" type="1" x="136.33333333333334" y="35.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="4" type="1" x="134.8" y="36.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="5" type="1" x="131.33333333333334" y="37" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16776449" t="6" type="1" x="132.5" y="41" z="0"/>
+</track>
+<track id="-1572631534">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="0" type="1" x="142.5" y="33" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="1" type="1" x="142" y="33" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="2" type="1" x="142.66666666666666" y="34.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="3" type="1" x="141.71428571428572" y="38" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="4" type="1" x="141.6" y="37.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="5" type="1" x="141" y="37.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="6" type="1" x="141" y="39.5" z="0"/>
+</track>
+<track id="-1340175564">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="0" type="1" x="98.3103448275862" y="47.241379310344826" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="1" type="1" x="99.71428571428571" y="46.142857142857146" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="2" type="1" x="98.72727272727273" y="48.54545454545455" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="3" type="1" x="97.36842105263158" y="49.421052631578945" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="4" type="1" x="96.8695652173913" y="50.43478260869565" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="5" type="1" x="96.63157894736842" y="50.36842105263158" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-20224" t="6" type="1" x="96.58333333333333" y="51.416666666666664" z="0"/>
+</track>
+<track id="1324400125">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="0" type="1" x="121" y="40" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="1" type="1" x="126.125" y="38.875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="2" type="1" x="126.11111111111111" y="40.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="3" type="1" x="126.83333333333333" y="42.166666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="4" type="1" x="126" y="41" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="5" type="1" x="130.6" y="41.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3145984" t="6" type="1" x="125.5" y="41.5" z="0"/>
+</track>
+<track id="-61662915">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="0" type="1" x="107.22222222222223" y="47.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="1" type="1" x="106.9" y="47.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="2" type="1" x="107.25" y="48" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="3" type="1" x="106.33333333333333" y="49.111111111111114" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="4" type="1" x="104" y="51.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="5" type="1" x="109" y="49.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7340288" t="6" type="1" x="104" y="53" z="0"/>
+</track>
+<track id="93351597">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="0" type="1" x="113" y="39.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="1" type="1" x="112.66666666666667" y="45.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="2" type="1" x="112.71428571428571" y="40.42857142857143" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="3" type="1" x="112.66666666666667" y="41" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="4" type="1" x="112.15384615384616" y="42" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="5" type="1" x="116" y="39" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711810" t="6" type="1" x="115.5" y="39.5" z="0"/>
+</track>
+<track id="1224861357">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="0" type="1" x="107.2" y="40.13333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="1" type="1" x="108.25" y="40.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="2" type="1" x="106.5" y="41.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="3" type="1" x="105.54545454545455" y="42.63636363636363" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="4" type="1" x="106" y="45.35294117647059" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="5" type="1" x="106.21739130434783" y="44.04347826086956" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="6" type="1" x="105.70833333333333" y="46.583333333333336" z="0"/>
+</track>
+<track id="1786101148">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2621185" t="0" type="1" x="114" y="36.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2621185" t="1" type="1" x="115.28571428571429" y="37.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2621185" t="2" type="1" x="119" y="35" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2621185" t="3" type="1" x="119" y="35" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2621185" t="4" type="1" x="120.5" y="36" z="0"/>
+</track>
+<track id="613657775">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="0" type="1" x="119.4" y="34.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="1" type="1" x="121" y="34" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="2" type="1" x="121" y="40" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="3" type="1" x="117.42857142857143" y="38.285714285714285" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="4" type="1" x="116.5" y="38.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="5" type="1" x="119.4" y="42.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="6" type="1" x="120.55555555555556" y="42.111111111111114" z="0"/>
+</track>
+<track id="1397013851">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="0" type="1" x="133.625" y="41" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="1" type="1" x="134.5" y="41" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="2" type="1" x="133.8" y="41.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="3" type="1" x="135" y="42.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="4" type="1" x="136" y="44" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="5" type="1" x="136.66666666666666" y="43.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65374" t="6" type="1" x="136.57142857142858" y="44.714285714285715" z="0"/>
+</track>
+<track id="210026411">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="0" type="1" x="71.21052631578948" y="102.15789473684211" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="1" type="1" x="71.36842105263158" y="102.57894736842105" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="2" type="1" x="70.63636363636364" y="103.27272727272727" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="3" type="1" x="71.14285714285714" y="102.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="4" type="1" x="70" y="103.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="5" type="1" x="71.15384615384616" y="102" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65441" t="6" type="1" x="70.25" y="102.08333333333333" z="0"/>
+</track>
+<track id="-926307996">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="0" type="1" x="61.86666666666667" y="98.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="1" type="1" x="62.61538461538461" y="96.61538461538461" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="2" type="1" x="62.54545454545455" y="96.36363636363636" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="3" type="1" x="63.1764705882353" y="95.3529411764706" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="4" type="1" x="63.473684210526315" y="96.15789473684211" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="5" type="1" x="65.25" y="100" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65365" t="6" type="1" x="63.111111111111114" y="97.33333333333333" z="0"/>
+</track>
+<track id="930343123">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="0" type="1" x="64.33333333333333" y="93.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="1" type="1" x="61.6" y="90.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="2" type="1" x="63.2" y="88.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="3" type="2" x="62.98842702538137" y="89.05614097173327" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="4" type="1" x="63" y="92" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="5" type="1" x="64.4375" y="92.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16760065" t="6" type="1" x="65.2" y="91.3" z="0"/>
+</track>
+<track id="252976877">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="0" type="1" x="70.8" y="92.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="1" type="1" x="68" y="90" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="2" type="1" x="71" y="93" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="3" type="2" x="70.50637670782446" y="92.49803916246829" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="4" type="2" x="70.50637670782446" y="92.49803916246829" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="5" type="2" x="70.50637670782446" y="92.49803916246829" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2490624" t="6" type="1" x="73" y="95" z="0"/>
+</track>
+<track id="-943362770">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="0" type="1" x="82.44444444444444" y="82.11111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="1" type="1" x="85.1" y="83.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="2" type="1" x="85.5" y="84" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="3" type="1" x="87" y="83.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="4" type="1" x="87" y="81" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="5" type="1" x="90.66666666666667" y="81.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="6" type="1" x="90.83333333333333" y="76.83333333333333" z="0"/>
+</track>
+<track id="-1141531872">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="0" type="1" x="66.5" y="85.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="1" type="1" x="71" y="83" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="2" type="1" x="72.33333333333333" y="84.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="3" type="1" x="74.33333333333333" y="83.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="4" type="2" x="73.83322696664507" y="83.82228737114417" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="5" type="1" x="77" y="81" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3735297" t="6" type="1" x="78.66666666666667" y="81.66666666666667" z="0"/>
+</track>
+<track id="1504901188">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="0" type="1" x="75.28571428571429" y="84.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="1" type="1" x="76.18181818181819" y="83.63636363636364" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="2" type="1" x="78.5" y="84.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="3" type="1" x="81" y="85.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="4" type="1" x="79.46153846153847" y="86.84615384615384" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="5" type="1" x="81.5" y="85" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16729089" t="6" type="1" x="82" y="85.5" z="0"/>
+</track>
+<track id="1884130151">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="0" type="1" x="87.72727272727273" y="55.63636363636363" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="1" type="1" x="88.81818181818181" y="54.90909090909091" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="2" type="1" x="89.71428571428571" y="58.714285714285715" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="3" type="1" x="89.66666666666667" y="58.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="4" type="1" x="84.33333333333333" y="59.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="5" type="1" x="88" y="59" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-31232" t="6" type="1" x="88.5" y="63" z="0"/>
+</track>
+<track id="-104202726">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="0" type="1" x="88.6" y="65.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="1" type="1" x="89" y="63.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="2" type="1" x="89" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="3" type="1" x="91" y="66" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="4" type="1" x="90.5" y="63.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5111553" t="5" type="1" x="93" y="66" z="0"/>
+</track>
+<track id="431681717">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="0" type="1" x="84.66666666666667" y="75.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="1" type="1" x="85.33333333333333" y="75.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="2" type="2" x="85.19673040040203" y="75.40163479979898" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="3" type="1" x="87" y="76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="4" type="1" x="86" y="75.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="5" type="1" x="80.85714285714286" y="75.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3407617" t="6" type="1" x="86.5" y="74.7" z="0"/>
+</track>
+<track id="-599693531">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="0" type="1" x="55.4" y="69.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="1" type="1" x="55.5" y="68.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="2" type="1" x="55" y="69" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="3" type="1" x="56" y="69" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="4" type="1" x="56" y="69.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="5" type="1" x="56.5" y="69" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6144" t="6" type="1" x="58" y="68.5" z="0"/>
+</track>
+<track id="1326777572">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="0" type="1" x="49" y="63.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="1" type="1" x="48.833333333333336" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="2" type="1" x="49" y="63.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="3" type="1" x="52" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="4" type="1" x="47.7" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="5" type="1" x="48.2" y="63.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-56832" t="6" type="1" x="46.5" y="63" z="0"/>
+</track>
+<track id="-614413745">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="0" type="1" x="67" y="72.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="1" type="2" x="67" y="72.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="2" type="1" x="69" y="72" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="3" type="1" x="69" y="72" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="4" type="1" x="68.625" y="71.0625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="5" type="1" x="67.8076923076923" y="69.23076923076923" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6095104" t="6" type="1" x="67.37777777777778" y="69.08888888888889" z="0"/>
+</track>
+<track id="1861814699">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="0" type="1" x="66.4390243902439" y="65.65853658536585" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="1" type="1" x="66.72727272727273" y="67.54545454545455" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="2" type="1" x="66.81818181818181" y="66.45454545454545" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="3" type="1" x="70.2" y="68.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="4" type="1" x="66.5" y="64" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-25856" t="5" type="1" x="72" y="62" z="0"/>
+</track>
+<track id="-1266193325">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="0" type="1" x="74.47058823529412" y="73.52941176470588" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="1" type="1" x="74.82857142857142" y="70.91428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="2" type="1" x="74.25925925925925" y="71.74074074074075" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="3" type="1" x="75.125" y="72.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="4" type="1" x="76.25" y="72" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="5" type="1" x="75.8" y="71.73333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16759297" t="6" type="1" x="77.44444444444444" y="72.77777777777777" z="0"/>
+</track>
+<track id="335903415">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="0" type="1" x="95.2" y="80.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="1" type="1" x="97.5" y="80.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="2" type="1" x="99.2" y="79.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="3" type="1" x="95.55" y="75.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="4" type="1" x="98.15789473684211" y="75.78947368421052" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="5" type="1" x="97.51851851851852" y="74.55555555555556" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711926" t="6" type="1" x="100.77777777777777" y="75.61111111111111" z="0"/>
+</track>
+<track id="1984987382">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="0" type="1" x="91.72727272727273" y="73.77272727272727" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="1" type="1" x="92.8695652173913" y="73.73913043478261" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="2" type="1" x="94.78947368421052" y="74.57894736842105" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="3" type="1" x="91" y="71" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="4" type="1" x="92" y="74.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="5" type="1" x="86.5" y="71" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711897" t="6" type="1" x="86" y="69" z="0"/>
+</track>
+<track id="426957035">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="0" type="1" x="102.57142857142857" y="73.85714285714286" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="1" type="1" x="103.75" y="72.875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="2" type="1" x="106.10526315789474" y="73.42105263157895" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="3" type="1" x="107.25" y="72.3125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="4" type="1" x="108.95238095238095" y="73.23809523809524" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="5" type="1" x="110" y="72.73333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-14483201" t="6" type="1" x="109.4" y="72.2" z="0"/>
+</track>
+<track id="1328157150">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="0" type="1" x="117.2" y="76.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="1" type="1" x="119.8125" y="76.5625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="2" type="1" x="116" y="78.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="3" type="1" x="117.66666666666667" y="79.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="4" type="1" x="118" y="74" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="5" type="1" x="114" y="76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16733441" t="6" type="1" x="114.14285714285714" y="75.57142857142857" z="0"/>
+</track>
+<track id="2070624979">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="0" type="1" x="125.33333333333333" y="76.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="1" type="1" x="126.66666666666667" y="76.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="2" type="1" x="128.28571428571428" y="74" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="3" type="1" x="129" y="77" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="4" type="1" x="128.71428571428572" y="75.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="5" type="1" x="128.4" y="76.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7143680" t="6" type="1" x="130.4" y="76.4" z="0"/>
+</track>
+<track id="-2025175011">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="0" type="1" x="120.4" y="71.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="1" type="1" x="122.4" y="71.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="2" type="1" x="122.82352941176471" y="75.41176470588235" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="3" type="1" x="124.83333333333333" y="76.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="4" type="1" x="122.16666666666667" y="77.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="5" type="1" x="122" y="73" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65384" t="6" type="1" x="126.5" y="72" z="0"/>
+</track>
+<track id="2025148106">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="0" type="1" x="52" y="82.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="1" type="1" x="51.04" y="81.76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="2" type="1" x="51.9" y="81.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="3" type="1" x="55.285714285714285" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="4" type="1" x="51.22222222222222" y="81.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="5" type="1" x="52.8277027027027" y="82.72466216216216" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-9699073" t="6" type="1" x="52.2641196013289" y="83.74086378737542" z="0"/>
+</track>
+<track id="-1726615372">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="0" type="1" x="50" y="93" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="1" type="1" x="53" y="89" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="2" type="1" x="52.375" y="95.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="3" type="1" x="51.666666666666664" y="96.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="4" type="1" x="52.57142857142857" y="95.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="5" type="1" x="53.642857142857146" y="96.64285714285714" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16384256" t="6" type="1" x="53.5" y="98.5" z="0"/>
+</track>
+<track id="896111980">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="0" type="1" x="51.34939759036145" y="84.00344234079174" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="1" type="1" x="52.65505804311775" y="84.16252072968491" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="2" type="1" x="51.5" y="85.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="3" type="1" x="48.5" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="4" type="1" x="50.82065217391305" y="83.23007246376811" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="5" type="1" x="50.46666666666667" y="82.13333333333334" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711874" t="6" type="1" x="50.09090909090909" y="82.63636363636364" z="0"/>
+</track>
+<track id="-1843019386">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="0" type="1" x="61.714285714285715" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="1" type="1" x="63.8" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="2" type="1" x="67" y="84" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="3" type="1" x="67" y="83" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="4" type="1" x="65.66666666666667" y="83.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="5" type="1" x="69" y="84" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12910337" t="6" type="1" x="72" y="86.25" z="0"/>
+</track>
+<track id="-1016340667">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="0" type="1" x="75" y="95.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="1" type="1" x="74.5625" y="95.1875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="2" type="1" x="76.86666666666666" y="95.46666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="3" type="2" x="76.41612316279911" y="95.42289772278589" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="4" type="1" x="79.4" y="94.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="5" type="1" x="81.63636363636364" y="93.45454545454545" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711789" t="6" type="1" x="81.2" y="93.65" z="0"/>
+</track>
+<track id="-2083687521">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="0" type="1" x="82.53846153846153" y="94.3076923076923" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="1" type="1" x="84.65517241379311" y="93.34482758620689" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="2" type="1" x="86.75862068965517" y="94.62068965517241" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="3" type="1" x="82.98148148148148" y="94.42592592592592" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="4" type="1" x="87.15" y="94.1" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="5" type="1" x="88.25" y="93" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16768001" t="6" type="1" x="89.5" y="95.5" z="0"/>
+</track>
+<track id="-597387555">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="0" type="1" x="104.5" y="87.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="1" type="1" x="105" y="90.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="2" type="2" x="104.89754780030152" y="90.12381548199008" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="3" type="1" x="105.91666666666667" y="90.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="4" type="1" x="103.8" y="89.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="5" type="1" x="105.4" y="89.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5963521" t="6" type="1" x="106" y="88" z="0"/>
+</track>
+<track id="-535295812">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711700" t="0" type="1" x="93" y="99.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711700" t="1" type="1" x="95.66666666666667" y="94.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711700" t="2" type="2" x="95.12025493494149" y="95.39200606355087" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711700" t="3" type="1" x="96" y="95" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711700" t="4" type="1" x="96" y="92" z="0"/>
+</track>
+<track id="1065396366">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="0" type="1" x="100.77777777777777" y="101.05555555555556" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="1" type="1" x="100" y="96" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="2" type="1" x="103" y="102" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="3" type="1" x="106.46153846153847" y="101.76923076923077" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="4" type="1" x="102.4" y="98.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="5" type="1" x="100.33333333333333" y="98.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16734209" t="6" type="1" x="100" y="99.5" z="0"/>
+</track>
+<track id="-949758607">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="1" type="1" x="108.5" y="87" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="2" type="1" x="106.61111111111111" y="88.11111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="3" type="1" x="110.8" y="89.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="4" type="1" x="108" y="93.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="5" type="1" x="111" y="95" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16752641" t="6" type="1" x="108" y="94.71428571428571" z="0"/>
+</track>
+<track id="2100427724">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="1" type="1" x="109" y="80" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="2" type="1" x="110" y="80" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="3" type="2" x="109.79509560060306" y="80" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="4" type="1" x="112" y="78.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="5" type="2" x="111.55141298844438" y="78.80517446358104" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="6" type="1" x="109.2" y="79.4" z="0"/>
+</track>
+<track id="-1055654298">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="1" type="1" x="144" y="44" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="2" type="1" x="140.5" y="44.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="3" type="2" x="141.2171653978893" y="44.39754780030153" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="4" type="1" x="146.33333333333334" y="43.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="5" type="1" x="148" y="47" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711766" t="6" type="1" x="146.8" y="48.1" z="0"/>
+</track>
+<track id="-449184313">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="1" type="1" x="80.125" y="64.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="2" type="1" x="80.66666666666667" y="65" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="3" type="1" x="81.6" y="64.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="4" type="1" x="81" y="65" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="5" type="1" x="80.2" y="64.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65497" t="6" type="1" x="81" y="64.28571428571429" z="0"/>
+</track>
+<track id="-982692228">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="1" type="1" x="90.5" y="85" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="2" type="1" x="92.66666666666667" y="87.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="3" type="1" x="94.14285714285714" y="85.42857142857143" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="4" type="1" x="94.66666666666667" y="85.53333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="5" type="1" x="94.63636363636364" y="84.9090909090909" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711876" t="6" type="1" x="97.58333333333333" y="84.33333333333333" z="0"/>
+</track>
+<track id="2132984715">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="1" type="1" x="117" y="88.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="2" type="1" x="120.5" y="91.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="3" type="1" x="121" y="90" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="4" type="1" x="114.9090909090909" y="89.63636363636364" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="5" type="1" x="114" y="90.10526315789474" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58368" t="6" type="1" x="116.05882352941177" y="89.6470588235294" z="0"/>
+</track>
+<track id="-1651280673">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="1" type="1" x="127" y="49" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="2" type="1" x="129.33333333333334" y="53.333333333333336" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="3" type="1" x="129.2" y="53.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="4" type="1" x="131.5" y="54" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="5" type="1" x="126.66666666666667" y="57.666666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-53504" t="6" type="1" x="128" y="55.5" z="0"/>
+</track>
+<track id="543119884">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="1" type="1" x="123.44444444444444" y="107.11965811965813" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="2" type="1" x="128.09876543209876" y="109.25925925925925" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="3" type="1" x="124.44776119402985" y="109.98507462686567" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="4" type="2" x="124.99652863893573" y="109.74821264215909" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="5" type="1" x="124.07339449541284" y="110.22935779816514" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65509" t="6" type="1" x="121.60576923076923" y="110.34615384615384" z="0"/>
+</track>
+<track id="2009081159">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16765441" t="2" type="1" x="151.87654320987653" y="104.61728395061728" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16765441" t="3" type="1" x="149.11650485436894" y="106.44660194174757" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16765441" t="4" type="1" x="147.56140350877192" y="108.56140350877193" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16765441" t="5" type="1" x="153.70833333333334" y="106.15277777777777" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16765441" t="6" type="1" x="152" y="107.86111111111111" z="0"/>
+</track>
+<track id="1059652801">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65407" t="2" type="1" x="148.66666666666666" y="91.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65407" t="3" type="1" x="147.14285714285714" y="94.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65407" t="4" type="1" x="146" y="95" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65407" t="5" type="1" x="142" y="98.3" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65407" t="6" type="1" x="142.3" y="98.8" z="0"/>
+</track>
+<track id="1106121221">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="2" type="1" x="121.3529411764706" y="99.11764705882354" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="3" type="2" x="121.3529411764706" y="99.11764705882354" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="4" type="1" x="121.19047619047619" y="100.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="5" type="1" x="120.28571428571429" y="100.23809523809524" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-45056" t="6" type="1" x="123.66666666666667" y="100.66666666666667" z="0"/>
+</track>
+<track id="-91488329">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-42240" t="2" type="1" x="61.6" y="63.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-42240" t="3" type="1" x="62.65" y="65.15" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-42240" t="4" type="1" x="60.57142857142857" y="63.714285714285715" z="0"/>
+</track>
+<track id="2070517375">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65511" t="2" type="1" x="96.53846153846153" y="102.46153846153847" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65511" t="3" type="1" x="97.93333333333334" y="102.73333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65511" t="4" type="1" x="99.33333333333333" y="103.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65511" t="5" type="1" x="103.88888888888889" y="103.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65511" t="6" type="1" x="104" y="105" z="0"/>
+</track>
+<track id="796125257">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-28160" t="2" type="1" x="111.6875" y="104.15625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-28160" t="3" type="1" x="111.4090909090909" y="104.9090909090909" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-28160" t="4" type="1" x="107.5" y="101.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-28160" t="5" type="1" x="106.71428571428571" y="100.14285714285714" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-28160" t="6" type="1" x="106.66666666666667" y="103.66666666666667" z="0"/>
+</track>
+<track id="2036070992">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8960" t="6" type="1" x="143.5" y="61.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8960" t="7" type="2" x="143.5" y="61.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8960" t="8" type="1" x="149" y="60.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8960" t="9" type="1" x="142.66666666666666" y="61.166666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8960" t="10" type="1" x="145.35555555555555" y="66.54814814814814" z="0"/>
+</track>
+<track id="-1888106530">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="10" type="1" x="55.5" y="65.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="11" type="2" x="55.5" y="65.83333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="12" type="1" x="56.5" y="70" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="13" type="1" x="60.817567567567565" y="67.35810810810811" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="14" type="1" x="59.10144927536232" y="68.73913043478261" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65368" t="15" type="1" x="58" y="74" z="0"/>
+</track>
+<track id="-151730132">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711691" t="11" type="1" x="121.87096774193549" y="120.2258064516129" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711691" t="12" type="1" x="124" y="120" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711691" t="13" type="1" x="120.41935483870968" y="119" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711691" t="14" type="1" x="119.70588235294117" y="122.32352941176471" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711691" t="15" type="1" x="121" y="123.5" z="0"/>
+</track>
+<track id="-300552615">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15597824" t="11" type="1" x="132.375" y="99.25961538461539" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15597824" t="12" type="1" x="127.4" y="96.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15597824" t="13" type="1" x="128" y="96.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15597824" t="14" type="1" x="130.16666666666666" y="94" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15597824" t="15" type="1" x="129.25" y="96" z="0"/>
+</track>
+<track id="168794406">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16775169" t="11" type="1" x="128" y="105" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16775169" t="12" type="1" x="132.2982456140351" y="105.6140350877193" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16775169" t="13" type="1" x="132" y="104.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16775169" t="14" type="1" x="128.66666666666666" y="102.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16775169" t="15" type="1" x="129.66666666666666" y="103.33333333333333" z="0"/>
+</track>
+<track id="324199968">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16724993" t="11" type="1" x="129.28571428571428" y="109.71428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16724993" t="12" type="1" x="124.66666666666667" y="108.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16724993" t="13" type="1" x="123.5" y="107.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16724993" t="14" type="1" x="127" y="109" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16724993" t="15" type="1" x="128.36363636363637" y="113.9090909090909" z="0"/>
+</track>
+<track id="844184612">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5766913" t="11" type="1" x="130" y="85.61538461538461" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5766913" t="12" type="1" x="126.75" y="87" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5766913" t="13" type="2" x="127.41593929804006" y="86.71628621621961" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5766913" t="14" type="1" x="126.5" y="89.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5766913" t="15" type="1" x="126.33333333333333" y="92" z="0"/>
+</track>
+<track id="401072614">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-39680" t="11" type="1" x="123.2" y="82.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-39680" t="12" type="1" x="121.5" y="82.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-39680" t="13" type="1" x="119.09302325581395" y="78.4186046511628" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-39680" t="14" type="1" x="119.91666666666667" y="82.45833333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-39680" t="15" type="1" x="121.5" y="77.5" z="0"/>
+</track>
+<track id="2125666926">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65494" t="11" type="1" x="118.29268292682927" y="110.41463414634147" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65494" t="12" type="1" x="117.3" y="114.24" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65494" t="13" type="1" x="116.25" y="108.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65494" t="14" type="1" x="117.5" y="113" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65494" t="15" type="1" x="116.6" y="112.8" z="0"/>
+</track>
+<track id="-990796639">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13696769" t="11" type="1" x="111.8" y="99.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13696769" t="12" type="1" x="116.46153846153847" y="97.23076923076923" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13696769" t="13" type="1" x="113" y="98.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13696769" t="14" type="1" x="119.5" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13696769" t="15" type="1" x="118.28571428571429" y="96.42857142857143" z="0"/>
+</track>
+<track id="-913738301">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65526" t="11" type="1" x="110.77777777777777" y="95.11111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65526" t="12" type="1" x="107.58823529411765" y="99.11764705882354" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65526" t="13" type="1" x="107.5" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65526" t="14" type="1" x="109.5" y="97.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65526" t="15" type="1" x="107.66666666666667" y="102.44444444444444" z="0"/>
+</track>
+<track id="-753066425">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711867" t="11" type="1" x="117.57692307692308" y="92.11538461538461" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711867" t="12" type="1" x="113.64285714285714" y="91.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711867" t="13" type="1" x="119.5" y="90" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711867" t="14" type="1" x="116" y="92" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711867" t="15" type="1" x="121.4" y="90.2" z="0"/>
+</track>
+<track id="-917804701">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="11" type="1" x="105.125" y="119.3125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="12" type="1" x="101.44444444444444" y="123.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="13" type="1" x="102.5" y="117.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="14" type="1" x="102.71428571428571" y="117.21428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4864" t="15" type="1" x="104.125" y="116.75" z="0"/>
+</track>
+<track id="-54436782">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16716033" t="11" type="1" x="110.53333333333333" y="119.13333333333334" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16716033" t="12" type="1" x="108" y="121" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16716033" t="13" type="1" x="111" y="117.1" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16716033" t="14" type="1" x="110.14285714285714" y="120.42857142857143" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16716033" t="15" type="1" x="112.5" y="125" z="0"/>
+</track>
+<track id="-112081189">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16122112" t="11" type="1" x="101.9090909090909" y="113.36363636363636" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16122112" t="12" type="1" x="104.72413793103448" y="114.13793103448276" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16122112" t="13" type="1" x="101.5" y="113.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16122112" t="14" type="1" x="105.75" y="109.75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16122112" t="15" type="1" x="99.41666666666667" y="108.95833333333333" z="0"/>
+</track>
+<track id="1025772312">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8453889" t="11" type="1" x="95.8" y="116.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8453889" t="12" type="1" x="92.57142857142857" y="116.71428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8453889" t="13" type="1" x="91.5" y="118" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8453889" t="14" type="1" x="88.7" y="118.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8453889" t="15" type="1" x="89.33333333333333" y="120.66666666666667" z="0"/>
+</track>
+<track id="-1454651222">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="11" type="1" x="81" y="105.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="12" type="1" x="80.2" y="105.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="13" type="1" x="77.66666666666667" y="106.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="14" type="1" x="78.4" y="107.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3072" t="15" type="1" x="80.22727272727273" y="111.22727272727273" z="0"/>
+</track>
+<track id="-935580299">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65404" t="11" type="1" x="89.83333333333333" y="114.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65404" t="12" type="1" x="84.5" y="114.21428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65404" t="13" type="1" x="85.08333333333333" y="111.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65404" t="14" type="1" x="83" y="110.88888888888889" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65404" t="15" type="1" x="88" y="115.25" z="0"/>
+</track>
+<track id="1484945385">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4325121" t="11" type="1" x="105.33333333333333" y="67.93333333333334" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4325121" t="12" type="1" x="106" y="62" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4325121" t="13" type="1" x="108" y="67.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4325121" t="14" type="1" x="106.28571428571429" y="68" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4325121" t="15" type="1" x="105.36363636363636" y="70.45454545454545" z="0"/>
+</track>
+<track id="1270346337">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="11" type="1" x="113" y="60" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="12" type="1" x="110.20833333333333" y="60.166666666666664" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="13" type="1" x="107" y="63" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="14" type="1" x="103.52554744525547" y="58.47445255474452" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65413" t="15" type="1" x="105" y="65" z="0"/>
+</track>
+<track id="667047845">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16725249" t="11" type="1" x="98.66666666666667" y="64.88888888888889" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16725249" t="12" type="1" x="100.61904761904762" y="69.38095238095238" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16725249" t="13" type="1" x="99.40625" y="67.4375" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16725249" t="14" type="1" x="99.2" y="66.9" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16725249" t="15" type="1" x="99.63157894736842" y="71.21052631578948" z="0"/>
+</track>
+<track id="-1978319776">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11730689" t="11" type="1" x="127.2" y="72.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11730689" t="12" type="1" x="123.82352941176471" y="70.32352941176471" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11730689" t="13" type="1" x="120.66481994459834" y="69.55124653739612" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11730689" t="14" type="1" x="122.88732394366197" y="69.08450704225352" z="0"/>
+</track>
+<track id="-1827684470">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6160640" t="11" type="1" x="97.8" y="82.1" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6160640" t="12" type="1" x="99.58333333333333" y="85.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6160640" t="13" type="1" x="101.4" y="85.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6160640" t="14" type="1" x="103.5" y="85.2" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-6160640" t="15" type="1" x="99" y="90" z="0"/>
+</track>
+<track id="-407399178">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2816" t="11" type="1" x="103.85185185185185" y="75.22222222222223" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2816" t="12" type="1" x="104.625" y="77.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2816" t="13" type="1" x="104.75" y="75" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2816" t="14" type="1" x="106.6842105263158" y="72" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-2816" t="15" type="1" x="106.55555555555556" y="75.55555555555556" z="0"/>
+</track>
+<track id="1379342601">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65457" t="11" type="1" x="105.2" y="105.7" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65457" t="12" type="1" x="101.36363636363636" y="105.18181818181819" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65457" t="13" type="1" x="100.16666666666667" y="106" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65457" t="14" type="2" x="100.57011900256857" y="105.85514302374227" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65457" t="15" type="1" x="100.33333333333333" y="101.33333333333333" z="0"/>
+</track>
+<track id="1401386624">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12058369" t="11" type="1" x="96.6969696969697" y="101.87878787878788" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12058369" t="12" type="1" x="94" y="102.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12058369" t="13" type="1" x="94.44" y="104.92" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12058369" t="14" type="1" x="96.88" y="105.76" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-12058369" t="15" type="1" x="98" y="103.5" z="0"/>
+</track>
+<track id="1296383277">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65301" t="11" type="1" x="48.8" y="86.03333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65301" t="12" type="1" x="53.2" y="89.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65301" t="13" type="1" x="53.64705882352941" y="94.34224598930481" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65301" t="14" type="1" x="50.93464052287582" y="91.49673202614379" z="0"/>
+</track>
+<track id="1403396384">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="11" type="1" x="54.407407407407405" y="76.48148148148148" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="12" type="1" x="54.142857142857146" y="74.71428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="13" type="1" x="56.72727272727273" y="73.45454545454545" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="14" type="1" x="59.333333333333336" y="72.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4652801" t="15" type="1" x="56.11144578313253" y="77.4066265060241" z="0"/>
+</track>
+<track id="1415335597">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65305" t="11" type="1" x="53.04545454545455" y="80.06926406926407" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65305" t="12" type="1" x="54.671462829736214" y="82.55155875299761" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65305" t="13" type="1" x="55.125" y="83.625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65305" t="14" type="1" x="59.6875" y="82.625" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65305" t="15" type="1" x="58.8" y="82.6" z="0"/>
+</track>
+<track id="-966974560">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11140865" t="11" type="1" x="62.5" y="73" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11140865" t="12" type="1" x="64.66666666666667" y="76.11111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11140865" t="13" type="1" x="64.5" y="76.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11140865" t="14" type="1" x="64.5" y="77.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11140865" t="15" type="1" x="65" y="82" z="0"/>
+</track>
+<track id="271706888">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16772609" t="11" type="1" x="81" y="70" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16772609" t="12" type="1" x="79.83333333333333" y="67.16666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16772609" t="13" type="1" x="78.7" y="72.7" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16772609" t="14" type="2" x="78.97921194261673" y="71.69236053800253" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16772609" t="15" type="1" x="77.4" y="74.2" z="0"/>
+</track>
+<track id="1978822524">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7339777" t="11" type="1" x="85.875" y="58.1875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7339777" t="12" type="1" x="85.1" y="62.46666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7339777" t="13" type="1" x="83.85185185185185" y="65.14814814814815" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7339777" t="14" type="1" x="81.76923076923077" y="67.76923076923077" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-7339777" t="15" type="1" x="80.58333333333333" y="67.75" z="0"/>
+</track>
+<track id="-213369179">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3931905" t="11" type="1" x="87" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3931905" t="12" type="1" x="90.5" y="102" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3931905" t="13" type="1" x="85" y="101.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-3931905" t="14" type="1" x="88" y="99.33333333333333" z="0"/>
+</track>
+<track id="2047395691">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13435136" t="11" type="1" x="98.76470588235294" y="95.58823529411765" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13435136" t="12" type="1" x="97.52380952380952" y="97.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13435136" t="13" type="1" x="99.44444444444444" y="96.27777777777777" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13435136" t="14" type="1" x="99.19047619047619" y="95.0952380952381" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-13435136" t="15" type="1" x="99" y="95" z="0"/>
+</track>
+<track id="227326799">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10026753" t="11" type="1" x="91.33333333333333" y="84.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10026753" t="12" type="1" x="88.5" y="85" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10026753" t="13" type="1" x="90.66666666666667" y="84.27777777777777" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10026753" t="14" type="1" x="90.75" y="87.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-10026753" t="15" type="1" x="91" y="87.8" z="0"/>
+</track>
+<track id="-1434801629">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49920" t="11" type="1" x="87.8125" y="91.875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49920" t="12" type="1" x="86.33333333333333" y="91.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49920" t="13" type="1" x="85.36666666666666" y="92.03333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49920" t="14" type="1" x="84.8125" y="93.1875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-49920" t="15" type="1" x="84.5" y="93" z="0"/>
+</track>
+<track id="1474147727">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5120" t="11" type="1" x="73.28571428571429" y="92.57142857142857" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5120" t="12" type="1" x="75.8" y="94.6" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5120" t="13" type="1" x="78.5" y="98" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5120" t="14" type="2" x="77.84587110964786" y="97.22370468441315" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-5120" t="15" type="1" x="76.66666666666667" y="94.33333333333333" z="0"/>
+</track>
+<track id="212604719">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65469" t="11" type="1" x="67" y="92" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65469" t="12" type="1" x="68.5" y="94.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65469" t="13" type="1" x="69.66666666666667" y="94.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65469" t="14" type="1" x="69.83333333333333" y="98.61111111111111" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-65469" t="15" type="1" x="68.6" y="97.2" z="0"/>
+</track>
+<track id="690574499">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711928" t="11" type="1" x="81" y="88" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711928" t="12" type="1" x="74.9" y="87.3" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711928" t="13" type="1" x="75" y="87" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711928" t="14" type="1" x="74" y="83" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711928" t="15" type="1" x="76" y="83" z="0"/>
+</track>
+<track id="-41893366">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="11" type="1" x="83" y="83.28571428571429" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="12" type="1" x="84.71428571428571" y="85.71428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="13" type="1" x="78.33333333333333" y="85" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="14" type="1" x="81.66666666666667" y="88.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-55552" t="15" type="1" x="85.2" y="87.2" z="0"/>
+</track>
+<track id="-1165370836">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15616" t="11" type="1" x="93.625" y="76.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15616" t="12" type="1" x="98.54545454545455" y="77.36363636363636" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15616" t="13" type="1" x="98.42857142857143" y="76.71428571428571" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15616" t="14" type="1" x="92.44444444444444" y="74.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-15616" t="15" type="1" x="93.64285714285714" y="77.42857142857143" z="0"/>
+</track>
+<track id="863111139">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-24832" t="11" type="1" x="108.16666666666667" y="84.7" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-24832" t="12" type="1" x="109.6" y="86.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-24832" t="13" type="1" x="110.875" y="91.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-24832" t="14" type="1" x="111.75" y="88" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-24832" t="15" type="1" x="110" y="86.83333333333333" z="0"/>
+</track>
+<track id="999793096">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711714" t="11" type="1" x="114" y="81" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711714" t="12" type="1" x="113.5" y="82" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711714" t="13" type="1" x="109" y="85" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711714" t="14" type="1" x="113.66666666666667" y="81.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16711714" t="15" type="1" x="117.5625" y="84.875" z="0"/>
+</track>
+<track id="1990612652">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4456193" t="11" type="1" x="114.46428571428571" y="74.64285714285714" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4456193" t="12" type="1" x="112" y="79" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4456193" t="13" type="1" x="113.33333333333333" y="77.66666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4456193" t="14" type="1" x="114.75" y="75.875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-4456193" t="15" type="1" x="113" y="82" z="0"/>
+</track>
+<track id="1708336690">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11927808" t="11" type="1" x="116.33333333333333" y="67.33333333333333" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11927808" t="12" type="1" x="114.875" y="70.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11927808" t="13" type="1" x="115.5" y="69.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11927808" t="14" type="2" x="115.43363857506338" y="69.51077778922874" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-11927808" t="15" type="1" x="113.53951890034364" y="68.64948453608247" z="0"/>
+</track>
+<track id="-2140325781">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16771841" t="11" type="1" x="85.5" y="71.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16771841" t="12" type="1" x="90.85" y="71.4" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16771841" t="13" type="1" x="90.06666666666666" y="75.26666666666667" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16771841" t="14" type="2" x="90.00300621492559" y="74.48416348878031" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-16771841" t="15" type="1" x="86.5" y="78.5" z="0"/>
+</track>
+<track id="335554715">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8912641" t="11" type="1" x="83" y="78.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8912641" t="12" type="1" x="80" y="82.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8912641" t="13" type="1" x="78" y="77.25" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8912641" t="14" type="2" x="78.53196246511743" y="78.15135971541001" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-8912641" t="15" type="1" x="81.83333333333333" y="82.16666666666667" z="0"/>
+</track>
+<track id="-1697844251">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58624" t="11" type="1" x="68.76" y="82.34" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58624" t="12" type="1" x="72.125" y="80.6875" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58624" t="13" type="1" x="70.55555555555556" y="79.88888888888889" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58624" t="14" type="1" x="69.6" y="80.8" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-58624" t="15" type="1" x="71.2" y="82.6" z="0"/>
+</track>
+<track id="1084135519">
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="13" type="1" x="120.125" y="147.9375" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="14" type="1" x="120.6046511627907" y="149.54651162790697" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="15" type="1" x="120.0909090909091" y="144.45454545454547" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="16" type="1" x="121.875" y="147.125" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="17" type="1" x="120.5" y="146.5" z="0"/>
+<detection classname="plugins.nchenouard.particletracking.DetectionSpotTrack" color="-17920" t="18" type="1" x="125.66666666666667" y="146.55555555555554" z="0"/>
+</track>
+</trackgroup>
+<linklist/>
+</root>
